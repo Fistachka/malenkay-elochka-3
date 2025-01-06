@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>malenkay-elochka-3</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
     <ru>655113f4b97bfd6ed409272fd08eeb1216312cf758ab543d8acca493f8c758c2</ru>
@@ -43,7 +43,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="3t.mp4" size="1142200" type="video/mp4" volume="0.487">424346739431d175e38f8ce3cc9c3b21f3b1e3bd2f09e5e1696825986651fb1a</video>
+    <video name="3t.mp4" size="1142200" type="video/mp4" volume="0.5">424346739431d175e38f8ce3cc9c3b21f3b1e3bd2f09e5e1696825986651fb1a</video>
     <notes>
       <note number="1" values="68" ticks="65" durationTicks="94" ppq="96" velocity="0.646"/>
       <note number="2" values="188" ticks="162" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -58,7 +58,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="4t.mp4" size="1073157" type="video/mp4" volume="0.487">3a69ea02a80743f1eb27e66c22432cc09457a7c97073aa8f65055da9ef7f2e0f</video>
+    <video name="4t.mp4" size="1073157" type="video/mp4" volume="0.5">3a69ea02a80743f1eb27e66c22432cc09457a7c97073aa8f65055da9ef7f2e0f</video>
     <notes>
       <note number="1" values="58" ticks="35" durationTicks="45" ppq="96" velocity="0.646"/>
       <note number="2" values="48" ticks="81" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -72,7 +72,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="5t.mp4" size="808708" type="video/mp4" volume="0.287">e42cefaf357b9640559d1056796699f663108df805d487447f2511ca8bde9ef5</video>
+    <video name="5t.mp4" size="808708" type="video/mp4" volume="0.5">e42cefaf357b9640559d1056796699f663108df805d487447f2511ca8bde9ef5</video>
     <notes>
       <note number="1" values="68" ticks="52" durationTicks="70" ppq="96" velocity="0.646"/>
       <note number="2" values="188" ticks="137" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -101,7 +101,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="6t.mp4" size="2663881" type="video/mp4" volume="0.23">cfd90183d498e21f69a8d75bef5e3676f12058913ba58d39995813e2b19391c3</video>
+    <video name="6t.mp4" size="2663881" type="video/mp4" volume="0.5">cfd90183d498e21f69a8d75bef5e3676f12058913ba58d39995813e2b19391c3</video>
     <notes>
       <note number="1" values="58" ticks="60" durationTicks="153" ppq="96" velocity="0.646"/>
       <note number="2" values="48" ticks="232" durationTicks="171" ppq="96" velocity="0.622"/>
