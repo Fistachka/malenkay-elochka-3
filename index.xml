@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>malenkay-elochka-3</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
-    <ru>0062b372a8401cb9c8f839cf467c7bab074116c548c24565f59747535933b9e3</ru>
-    <en>9c37c04d0bc691f0c40dce729b2d9d02b172bfc071571ebedb11bc28ecd2d92a</en>
+    <ru>4091485c6505b256fba01b5c1f2917d6f88ce1805d4797d4c1c91f5dd5f713ae</ru>
+    <en>ed181e4335f2291cfc8f61d14cc34e71efc7598dcc007c2815fa1a726f8aee72</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
